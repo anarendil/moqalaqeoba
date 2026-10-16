@@ -1,0 +1,22 @@
+{
+ "name": "მოქალაქეობის ტესტი",
+ "short_name": "მოქალაქეობა",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#FAF6F6",
+ "theme_color": "#A3203A",
+ "lang": "ka",
+ "icons": [
+  {
+   "src": "apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
